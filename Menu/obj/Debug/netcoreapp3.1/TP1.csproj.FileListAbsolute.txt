@@ -1,0 +1,13 @@
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\bin\Debug\netcoreapp3.1\TP1.exe
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\bin\Debug\netcoreapp3.1\TP1.deps.json
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.json
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.dev.json
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\bin\Debug\netcoreapp3.1\TP1.dll
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\bin\Debug\netcoreapp3.1\TP1.pdb
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.csprojAssemblyReference.cache
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.AssemblyInfoInputs.cache
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.AssemblyInfo.cs
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.dll
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.pdb
+C:\Users\Ian Hein\Desktop\Ian\TP1\Menu\obj\Debug\netcoreapp3.1\TP1.genruntimeconfig.cache

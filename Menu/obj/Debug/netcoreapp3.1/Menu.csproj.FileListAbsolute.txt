@@ -1,0 +1,13 @@
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.csprojAssemblyReference.cache
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfoInputs.cache
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.AssemblyInfo.cs
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.exe
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.deps.json
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.json
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.runtimeconfig.dev.json
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.dll
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\bin\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.dll
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\Ian Hein\Desktop\Ian\Menu\Menu\obj\Debug\netcoreapp3.1\Menu.genruntimeconfig.cache
